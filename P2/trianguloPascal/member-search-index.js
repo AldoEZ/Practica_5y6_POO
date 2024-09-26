@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mx.unam.fi.poo.g1.p2","c":"TrianguloPascal","l":"getN()"},{"p":"mx.unam.fi.poo.g1.p2","c":"TrianguloPascal","l":"setN(int)"},{"p":"mx.unam.fi.poo.g1.p2","c":"TrianguloPascal","l":"trianguloPascal()"},{"p":"mx.unam.fi.poo.g1.p2","c":"TrianguloPascal","l":"TrianguloPascal(int)","u":"%3Cinit%3E(int)"}];updateSearchResults();
