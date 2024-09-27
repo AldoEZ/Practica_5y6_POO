@@ -19,7 +19,7 @@ public class Practica1 {
         
         double distancia = punto.distaciaPuntos();
         
-        System.out.println("La punto entre los puntos P1(" 
+        System.out.println("La distancia entre los puntos P1(" 
         + punto.getX1() + "," + punto.getY1() + ") y P2(" 
         + punto.getX2() + "," + punto.getY2() + ") es: " + distancia);
     }
